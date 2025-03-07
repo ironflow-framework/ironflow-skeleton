@@ -28,7 +28,5 @@
     "post-install-cmd": [
       "IronFlow\\Installer\\Setup::start"
     ]
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+  }
 }

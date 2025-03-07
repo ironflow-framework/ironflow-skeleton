@@ -1,0 +1,57 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d359db8e1bad65c08d53005e5c8c39d8",
+    "packages": [
+        {
+            "name": "ironflow/kernel",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ironflow-framework/kernel.git",
+                "reference": "6dd4e7500b9d61d78504b37dc822aeed71270922"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ironflow-framework/kernel/zipball/6dd4e7500b9d61d78504b37dc822aeed71270922",
+                "reference": "6dd4e7500b9d61d78504b37dc822aeed71270922",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Ironflow\\Kernel\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Aure",
+                    "email": "147180124+AureDulvresse@users.noreply.github.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/ironflow-framework/kernel/issues",
+                "source": "https://github.com/ironflow-framework/kernel/tree/v1.0.0"
+            },
+            "time": "2025-03-07T14:52:41+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^8.4"
+    },
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
